@@ -34,11 +34,10 @@ main{
     position: relative;
 }
 .buttons button{
-    border: none;
     background: none;
     vertical-align: middle;
     padding: 7px;
-    height: 46px;
+    height: 45px;
     width: 60px;
     display: inline-block;
     border: 1px solid #CCC;
